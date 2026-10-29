@@ -1,0 +1,2 @@
+- 
+- Normalize input strings by converting them to lowercase and removing punctuation before calculating similarity scores. Ensure text comparison accounts for case variations and ignores non-alphanumeric characters.
